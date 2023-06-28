@@ -8,6 +8,14 @@ The following code can be used to extract features for text. The cover four broa
 - lexical sophistication
 - polarity
 
+### install the following packages:
+
+- pandas
+- spacy
+- tqdm
+- readability
+- tabulate
+  
 To extract the features you need:
 
 - a csv file with a column that contains your text data (e.g a column that contains forum posts or tweets)
@@ -51,6 +59,7 @@ Follow the follwing steps to extract features:
 - (f)
   run the script ````generate_syntactic_features.py```` and specificy your original csv file as input. It needs to have
   an ID column. If there are more part-of-speech tags you can change the specified tag list in the script. (same for morphology).
+  Also you may want to use a different spacy model. Check for the availble spacy models for english to find the most appropriate one.
 
 - (g)
   Finally you have created all featuer sets. The last thing will be to merge them into one dataframe. For that you can

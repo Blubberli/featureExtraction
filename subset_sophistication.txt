@@ -1,0 +1,16 @@
+MRC_Familiarity_AW
+MRC_Imageability_AW
+Brysbaert_Concreteness_Combined_AW
+COCA_spoken_Range_AW
+COCA_spoken_Frequency_AW
+COCA_spoken_Bigram_Frequency
+COCA_spoken_bi_MI2
+McD_CD
+Sem_D
+All_AWL_Normed
+LD_Mean_RT
+LD_Mean_Accuracy
+WN_Mean_Accuracy
+lsa_average_top_three_cosine
+content_poly
+hyper_verb_noun_Sav_Pav

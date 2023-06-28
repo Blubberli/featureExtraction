@@ -1,0 +1,19 @@
+action_component
+affect_friends_and_family_component
+certainty_component economy_component
+failure_component
+fear_and_digust_component
+joy_component
+negative_adjectives_component
+objects_component
+polarity_nouns_component
+polarity_verbs_component
+politeness_component
+positive_adjectives_component
+positive_nouns_component
+positive_verbs_component
+respect_component
+social_order_component
+trust_verbs_component
+virtue_adverbs_component
+well_being_component
